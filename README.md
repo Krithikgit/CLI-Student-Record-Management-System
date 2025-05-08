@@ -5,7 +5,7 @@
 This project is an example of how can you get and control the data in sql using python in a beginner's project
 
 ### Evironmental Needs :
-  * Python Version 3.x - to support "sqlite3"
+  * Python Version 3.x - to support "sqlite3" / ```import sqlite3```
 
 ### How to run the File : 
   1. Clone the file in your PC and keep note of the destination its stored
